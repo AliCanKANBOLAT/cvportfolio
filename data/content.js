@@ -145,7 +145,7 @@ nav: {
     hero: {
       greeting: "Hello, I'm",
       name: "Ali Can Kanbolat",
-      title: "Electronics Engineer & Frontend Developer",
+      title: "Electronics Engineer",
       description: "A solution-oriented professional with experience in field operations, technical support, and frontend development. I love learning new technologies, have diverse industry experience, and am open to new opportunities.",
       cta: "Get In Touch",
       downloadCV: "Download CV"
